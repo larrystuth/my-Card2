@@ -85,10 +85,10 @@ line-height: 25px;
 main .block{  
 position: relative; 
 top: 60px;
-width: 550px; 
-height: 900px; 
+width: 450px; 
+height: 620px; 
  
-box-shadow: 0 0 20px #e1e4fc;  
+box-shadows: 0 0 20px #e1e4fc;  
 border-radius: 15px;  
 background-color: #fff;  
 overflow: hidden;
@@ -133,7 +133,7 @@ justify-content: center;}
 
 main{ 
  width:500px;  
- height: 800px
+ height: 620px
   
  } 
 
@@ -163,9 +163,9 @@ text-align: center;
 line-height: 25px;  } 
 
  main .block{  
-top: 20px;
+top: 30px;
 width: 390px; 
-height: 700px; 
+height: 650px; 
 text-align: center;
   }
  }
